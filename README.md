@@ -34,7 +34,6 @@ requirements-traceability-lab/
 │
 ├── requirements.txt             # List of Python packages
 └── README.md                    # You're reading it!
-```bash
 
 ---
 
