@@ -23,10 +23,10 @@ requirements-traceability-lab/
 │   ├── requirements.csv         # A list of sample requirements
 │   └── test_cases.csv           # A list of matching test cases
 │
-├── scripts/
+├── script/
 │   └── traceability_nlp.py      # Python script to generate traceability links
 │
-├── notebooks/
+├── notebook/
 │   └── traceability_nlp.ipynb   # Jupyter notebook version (interactive)
 │
 ├── sample_output/
