@@ -6,11 +6,11 @@ Welcome to your Requirements Engineering mini-lab! In this project, you'll use P
 
 ## 🎯 What You'll Learn
 
-By completing this project, you will:
+By completing this lab, you will:
 - Understand what traceability means in software development.
-- Apply Python to compare requirements and test cases.
-- Use basic NLP tools to measure similarity between texts.
-- See how automation can support requirement traceability.
+- Use Python to compare requirements and test cases automatically.
+- Apply basic NLP to detect similarities in textual content.
+- Visualize how requirement traceability can be automated using a Jupyter notebook or script.
 
 ---
 
@@ -24,10 +24,13 @@ requirements-traceability-lab/
 │   └── test_cases.csv           # A list of matching test cases
 │
 ├── scripts/
-│   └── traceability_nlp.py      # Python script to calculate traceability links
+│   └── traceability_nlp.py      # Python script to generate traceability links
+│
+├── notebooks/
+│   └── traceability_nlp.ipynb   # Jupyter notebook version (interactive)
 │
 ├── sample_output/
 │   └── traceability_matrix.csv  # Output file with similarity scores
 │
-├── requirements.txt             # All the third-party packages and their respective versions
+├── requirements.txt             # List of Python packages
 └── README.md                    # You're reading it!
