@@ -42,13 +42,13 @@ git clone https://github.com/yourusername/requirements-traceability-lab.git
 cd requirements-traceability-lab
 ```
 
-## 2. Set Up a Virtual Environment (Optional but Recommended)
+2. Set Up a Virtual Environment (Optional but Recommended)
 ```bash
 python -m venv venv
 source venv/bin/activate  # For Windows: venv\Scripts\activate
 ```
 
-## 3. Install the Required Packages
+3. Install the Required Packages
 ```bash
 pip install -r requirements.txt
 ```
