@@ -29,4 +29,5 @@ requirements-traceability-lab/
 ├── sample_output/
 │   └── traceability_matrix.csv  # Output file with similarity scores
 │
+├── requirements.txt             # All the third-party packages and their respective versions
 └── README.md                    # You're reading it!
