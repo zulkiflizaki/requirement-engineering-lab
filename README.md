@@ -34,10 +34,12 @@ requirements-traceability-lab/
 │
 ├── requirements.txt             # List of Python packages
 └── README.md                    # You're reading it!
+```bash
 
 ---
 
 ## 🚀 Getting Started
+
 1. Clone This Repository
 ```bash
 git clone https://github.com/yourusername/requirements-traceability-lab.git
@@ -114,4 +116,4 @@ Don’t hesitate to ask your instructor or peers. You're encouraged to modify th
 ---
 
 ## 📜 License
-This project is licensed under the MIT License. Feel free to use or adapt for educational purposes.
+This project is open-source and available under the **[MIT License](LICENSE)**. Feel free to use or adapt for educational purposes. 
