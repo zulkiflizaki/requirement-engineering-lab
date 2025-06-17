@@ -1,0 +1,11 @@
+Requirement_ID,Requirement_Description,Design_ID,Test_Case_ID
+REQ-001,System shall allow user login,DES-101,TC-001
+REQ-002,System shall show available parking spots,DES-102,TC-002
+REQ-003,System shall support cashless payment,DES-103,TC-003
+REQ-004,System shall notify admin when zone is full,DES-104,TC-004
+REQ-005,System shall allow reservation of parking,DES-105,TC-005
+REQ-006,System shall log user activity,DES-106,TC-006
+REQ-007,System shall provide analytics dashboard,DES-107,TC-007
+REQ-008,System shall allow multi-language support,DES-108,TC-008
+REQ-009,System shall generate daily parking report,DES-109,TC-009
+REQ-010,System shall operate 24/7,DES-110,TC-010

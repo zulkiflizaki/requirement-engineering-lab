@@ -1,0 +1,11 @@
+TestCase_ID,Description
+TC-001,Verify that a user can successfully reserve a parking spot through the app.
+TC-002,Verify that payment can be completed using a valid debit card.
+TC-003,Verify that available parking spaces update in real-time on the dashboard.
+TC-004,Verify the system generates a daily report showing parking trends.
+TC-005,Verify an alert is triggered when all parking spots are taken.
+TC-006,Verify the admin can access and browse historical parking reports.
+TC-007,Verify login functionality using correct and incorrect credentials.
+TC-008,Verify that the system displays correctly in English and Malay.
+TC-009,Verify that a user can cancel their reservation before arrival.
+TC-010,Verify that user activities are properly recorded in the system log.

@@ -1,0 +1,11 @@
+Requirement_ID,Description
+REQ-001,The system shall allow users to reserve a parking spot via mobile app.
+REQ-002,The system shall process cashless payments using credit or debit cards.
+REQ-003,The system shall notify users of available parking in real-time.
+REQ-004,The system shall generate a daily report of parking usage statistics.
+REQ-005,The system shall send an alert when the parking lot is full.
+REQ-006,The system shall allow admin to view historical parking data.
+REQ-007,The system shall ensure users can log in with secure credentials.
+REQ-008,The system shall support multiple languages in the user interface.
+REQ-009,The system shall allow users to cancel their parking reservation.
+REQ-010,The system shall log all user interactions for audit purposes.
